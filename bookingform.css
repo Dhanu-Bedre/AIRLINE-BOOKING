@@ -1,0 +1,66 @@
+/* Add this to the existing CSS code */
+
+section.booking-form {
+  padding: 50px;
+  text-align: center;
+}
+
+section.booking-form h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+body {
+  background: url(image6.jpg) center/cover;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+header {
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 24px;
+}
+
+nav ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sign-in-button,
+.sign-up-button {
+  padding: 8px 16px;
+  background-color: #1a75ff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.sign-in-button:hover,
+.sign-up-button:hover {
+  background-color: #0066cc;
+}
