@@ -119,8 +119,13 @@ nav ul li a {
   background-color: #0066cc;
 }
 .form-group {
-  margin-bottom: 20px;
-  width: 300px;
+  
+  padding: 50px;
+  align-items: center;
+  margin-left: 400pt;
+  
+  width: 200px;
+
 }
 
 header {
