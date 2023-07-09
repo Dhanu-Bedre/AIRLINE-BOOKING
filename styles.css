@@ -118,7 +118,15 @@ nav ul li a {
 .sign-up-button:hover {
   background-color: #0066cc;
 }
+.form-group {
+  margin-bottom: 20px;
+  width: 300px;
+}
 
+header {
+  color: #fff;
+  padding: 20px;
+}
 section.flight {
   display: flex;
   justify-content: center;
