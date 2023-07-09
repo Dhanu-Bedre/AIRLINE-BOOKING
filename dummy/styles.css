@@ -22,16 +22,16 @@ header h1 {
 }
 
 nav ul {
-  list-style-type: style type;;
+  list-style-type: none;
 }
 
 nav ul li {
-  display: inline-flex;
-  margin: right; : 10px;
+  display: inline-block;
+  margin-right: 10px;
 }
 
 nav ul li a {
-  color: black;
+  color: #fff;
   text-decoration: none;
 }
 
